@@ -1,4 +1,4 @@
+ikinci deðiþiklik
 
 
-
-Yeni Satýr ( Geçerli Olacak Satýr ). 
+Yeni Satýr "bu eklenedi"( Geçerli Olacak Satýr ). 
